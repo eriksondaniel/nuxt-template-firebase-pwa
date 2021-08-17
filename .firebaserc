@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "hear-my-health",
+    "hear-my-health": "hear-my-health"
+  }
+}
